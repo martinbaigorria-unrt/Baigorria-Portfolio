@@ -61,7 +61,7 @@ body {
     font-size: 18px;
 }
 .section1 {
-    margin: 0;
+    margin: 20px;
     padding: 2px;
 }
 .white {
@@ -84,14 +84,31 @@ body {
     padding: 10px;
     color: #A0AEC0;
 }
-.sobremi {
+.azul {
     background-color: #1C2945;
+    width: 100%;
+    height: 500px;
+    padding: 15px;
 }
 .info {
-    background: #1A1F1F ;
-    border: 0.2px solid #37869E;
-    border-radius: 3px;
-    color: white;
-    padding: 7px;
-    width: 500px;
+    background-color: #12181b; 
+  border: 1px solid #2a3439;    
+  border-radius: 12px;          
+  padding: 32px;
+  max-width: 550px;
+  margin-left: auto;            
+  margin-right: 80px;
+  color: #c5d1d9;               
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+.datos {
+    list-style-type: none; 
+  padding: 0;            
+  margin: 0;
+    color: #c5d1d9;               
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
 }
