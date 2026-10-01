@@ -15,6 +15,13 @@ body {
     color: white;
     padding: 7px;
 }
+.button2 {
+    background: #00000000 ;
+    border: 0.2px solid #37869E;
+    border-radius: 3px;
+    color: white;
+    padding: 7px;
+}
 .header {
     display: flex;
     justify-content: space-between;
@@ -64,7 +71,7 @@ body {
 }
 .cardubi {
     color: white;
-    width: 150px;
+    width: 160px;
     margin: 0px;
     padding: 5px;
     border: 0.2px solid #37869E;
@@ -77,5 +84,14 @@ body {
     padding: 10px;
     color: #A0AEC0;
 }
-
-
+.sobremi {
+    background-color: #1C2945;
+}
+.info {
+    background: #1A1F1F ;
+    border: 0.2px solid #37869E;
+    border-radius: 3px;
+    color: white;
+    padding: 7px;
+    width: 500px;
+}
