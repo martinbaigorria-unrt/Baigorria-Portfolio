@@ -1,11 +1,12 @@
 @import url('https://googleapis.com');
 body {
-  background-color: #1A1F1F;
+  background-color: #12181b;
   padding: 10px;
 }
 .img {
     width: 150px;
     height: 80px;
+    filter: drop-shadow(0px 0px 10px #F45100);
 }
 
 .button {
@@ -251,4 +252,8 @@ textarea {
     background: #F45100;
     color: white;
     border: 0;
+}
+.imgp {
+   width: 900px;
+   filter: drop-shadow(0px 0px 20px #F45100);
 }
